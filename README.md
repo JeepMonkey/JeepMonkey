@@ -13,5 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
-[![My Skills](https://skillicons.dev/icons?i=raspberrypi,py)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/jeepmonkey/)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/jeepmonkey/)
